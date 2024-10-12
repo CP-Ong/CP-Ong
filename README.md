@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring data scientist from Malaysia 🧑🏻‍💻 MMath Graduate, University of Warwick 🧑🏻‍🎓</h3>
 
 - 🌱 I’m currently self-learning data science skills 🎯
-- 📁 All of my projects are available on [my GitHub account](https://github.com/CP-Ong).
+- 📁 All of my beginner projects are available on - [Data Science projects](https://github.com/CP-Ong/beginner-projects-data-science) & [Python projects](https://github.com/CP-Ong/beginner-projects-python).
 - 📫 Reach me at **chenping.ong01@gmail.com**.
 - 📄 Know about my experiences on [my personal website](https://ocp0926.wixsite.com/lucasongchenping).
 
