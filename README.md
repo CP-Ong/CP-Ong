@@ -2,9 +2,9 @@
 <h3 align="center">Aspiring data scientist from Malaysia 🧑🏻‍💻 MMath Graduate, University of Warwick 🧑🏻‍🎓</h3>
 
 - 🌱 I’m currently self-learning data science skills 🎯
-- 📁 All of my projects are available at [https://github.com/CP-Ong/portfolio](https://github.com/CP-Ong/portfolio)
-- 📫 How to reach me **chenping.ong01@gmail.com**
-- 📄 Know about my experiences [https://ocp0926.wixsite.com/lucasongchenping](https://ocp0926.wixsite.com/lucasongchenping)
+- 📁 All of my projects are available on [my GitHub account](https://github.com/CP-Ong).
+- 📫 Reach me at **chenping.ong01@gmail.com**.
+- 📄 Know about my experiences on [my personal website](https://ocp0926.wixsite.com/lucasongchenping).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
