@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring data scientist from Malaysia 🧑🏻‍💻 MMath Graduate, University of Warwick 🧑🏻‍🎓</h3>
 
 - 🌱 I’m currently self-learning data science skills 🎯
-- 📁 All of my beginner projects are available on - [Data Science projects](https://github.com/CP-Ong/beginner-projects-data-science) & [Python projects](https://github.com/CP-Ong/beginner-projects-python).
+- 📁 All of my projects are available on my [portfolio](https://github.com/CP-Ong/portfolio).
 - 📫 Reach me at **chenping.ong01@gmail.com**.
 - 📄 Know about my experiences on [my personal website](https://ocp0926.wixsite.com/lucasongchenping).
 
@@ -23,6 +23,3 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cp-ong&show_icons=true&locale=en&layout=compact" alt="cp-ong" /></p>
--->
