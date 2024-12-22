@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chen Ping @CP-Ong!</h1>
 <h3 align="center">Aspiring data scientist from Malaysia 🧑🏻‍💻 MMath Graduate, University of Warwick 🧑🏻‍🎓</h3>
 
-- 🌱 I’m currently self-learning data science skills 🎯
+- 🌱 I’m currently self-learning data skills 🎯
 - 📁 All of my projects are available on my [portfolio](https://github.com/CP-Ong/portfolio).
 - 📫 Reach me at **chenping.ong01@gmail.com**.
 - 📄 Know about my experiences on [my personal website](https://ocp0926.wixsite.com/lucasongchenping).
