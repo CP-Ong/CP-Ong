@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chen Ping @CP-Ong!</h1>
-<h3 align="center">Aspiring Data Analyst / Quant from Malaysia 🧑🏻‍💻 MMath Graduate, University of Warwick 🧑🏻‍🎓</h3>
+<h3 align="center">Aspiring Data Scientist, Data Analyst, Quant from Malaysia 🧑🏻‍💻 MMath Graduate, University of Warwick 🧑🏻‍🎓</h3>
 
 - 🌱 I’m currently self-learning data analysis, machine learning, and quantitative skills 🎯
 - 📁 All of my projects are available on my [portfolio](https://github.com/CP-Ong/portfolio).
