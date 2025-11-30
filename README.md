@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chen Ping @CP-Ong!</h1>
-<h3 align="center">Aspiring Data Scientist from Malaysia 🧑🏻‍💻 <br>MMath Graduate, University of Warwick 🧑🏻‍🎓</h3>
+<h3 align="center">Data Analyst at Shopee Malaysia 🧑🏻‍💻 MMath Graduate, University of Warwick 🧑🏻‍🎓</h3>
 
-- 🌱 I’m currently self-learning statistics, data science, machine learning, and quantitative skills. 🎯
 - 📁 All of my projects are available on my [portfolio](https://github.com/CP-Ong/portfolio).
 - 📫 Reach me at **chenping.ong01@gmail.com**.
 - 📄 Know about my experiences on [my personal website](https://ocp0926.wixsite.com/lucasongchenping).
