@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chen Ping @CP-Ong!</h1>
-<h3 align="center">Data Analyst at Shopee Malaysia 🧑🏻‍💻 MMath Graduate, University of Warwick 🧑🏻‍🎓</h3>
+<h3 align="center">APAC Revenue Analyst at ResMed 🧑🏻‍💻 MMath Graduate, University of Warwick 🧑🏻‍🎓</h3>
 
 - 📁 All of my data projects are available [here](https://github.com/CP-Ong/old-data-projects/tree/main).
 - 📫 Reach me at **chenping.ong01@gmail.com**.
